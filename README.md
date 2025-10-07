@@ -4,7 +4,7 @@
 
 * [English Version](./README.en.md) (Coming soon)
 
-![应用截图](https://i.imgur.com/g6Z7k4X.png)
+![应用截图](./image.png)
 ## ✨ 功能特性
 
 * **⚡️ 快速部署**: 无需本地环境，通过 Cloudflare 网页端操作，几分钟内即可完成部署。
